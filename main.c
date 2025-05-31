@@ -8,6 +8,8 @@ int main()
     int a= 32;
     int b= 123;
     short sdf =123;
+    int dsff = 234;
+    int dsfrtt = 3244;
 return 0;    
 }
 
